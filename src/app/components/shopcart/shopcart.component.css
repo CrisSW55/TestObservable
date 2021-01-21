@@ -1,0 +1,17 @@
+p.okay{background-color: rebeccapurple;
+    text-align: center; margin-top: 2%;margin-left: 40%;width: 20%;}
+
+p.answer{background-color: skyblue;
+    text-align: center; margin-top: 2%;margin-left: 40%;width: 20%;}
+
+button{background-color: orange;width: 20%;margin-top: 2%;}
+
+h1{background-color: royalblue; text-align: center; width: 50%;
+   margin: auto;}
+
+    .container{background-color: forestgreen;
+        
+        text-align: center;
+        margin: auto;
+        
+        width: 50%;}
